@@ -14,9 +14,25 @@ ports that might already be in use.
 \bin2hex('HTL'); // 48544c
 ```
 
-| Project                                                                 | Linter Port |
-| ----------------------------------------------------------------------: | :---------- |
-| [lecof-router](https://github.com/hershel-theodore-layton/lecof-router) | 48544       |
+| Project                                                                                                                     | Linter Port |
+| --------------------------------------------------------------------------------------------------------------------------: | :---------- |
+| [lecof-router](https://github.com/hershel-theodore-layton/lecof-router)                                                     | 48544       |
+| [expect](https://github.com/hershel-theodore-layton/expect)                                                                 | 48545       |
+| [expr-dump](https://github.com/hershel-theodore-layton/expr-dump)                                                           | 48546       |
+| [hhvm-four-shim](https://github.com/hershel-theodore-layton/hhvm-four-shim)                                                 | 48547       |
+| [lecof-router-interfaces](https://github.com/hershel-theodore-layton/lecof-router-interfaces)                               | 48548       |
+| [portable-hack-ast](https://github.com/hershel-theodore-layton/portable-hack-ast)                                           | 48549       |
+| [portable-hack-ast-extras](https://github.com/hershel-theodore-layton/portable-hack-ast-extras)                             | 48550       |
+| [portable-hack-ast-linters](https://github.com/hershel-theodore-layton/portable-hack-ast-linters)                           | 48551       |
+| [portable-hack-ast-linters-server](https://github.com/hershel-theodore-layton/portable-hack-ast-linters-server)             | 48552       |
+| [pragma](https://github.com/hershel-theodore-layton/pragma)                                                                 | 48553       |
+| [sgml-stream](https://github.com/hershel-theodore-layton/sgml-stream)                                                       | 48554       |
+| [sgml-stream-codegen](https://github.com/hershel-theodore-layton/sgml-stream-codegen)                                       | 48555       |
+| [sgml-stream-interfaces](https://github.com/hershel-theodore-layton/sgml-stream-interfaces)                                 | 48556       |
+| [simple-web-token](https://github.com/hershel-theodore-layton/simple-web-token)                                             | 48557       |
+| [static-type-assertion-code-generator](https://github.com/hershel-theodore-layton/static-type-assertion-code-generator)     | 48558       |
+| [test-chain](https://github.com/hershel-theodore-layton/test-chain)                                                         | 48559       |
+| [type-visitor](https://github.com/hershel-theodore-layton/type-visitor)                                                     | 48560       |
 
 [^1]: I already developed in Docker locally, but
       I created the containers on the fly with
