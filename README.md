@@ -33,6 +33,8 @@ ports that might already be in use.
 | [static-type-assertion-code-generator](https://github.com/hershel-theodore-layton/static-type-assertion-code-generator)     | 48558       |
 | [test-chain](https://github.com/hershel-theodore-layton/test-chain)                                                         | 48559       |
 | [type-visitor](https://github.com/hershel-theodore-layton/type-visitor)                                                     | 48560       |
+| [html-stream-namespaced](https://github.com/hershel-theodore-layton/html-stream-namespaced)                                 | 48561       |
+| [html-stream-non-namespaced](https://github.com/hershel-theodore-layton/html-stream-non-namespaced)                         | 48562       |
 
 [^1]: I already developed in Docker locally, but
       I created the containers on the fly with
