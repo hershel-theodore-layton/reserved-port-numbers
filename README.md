@@ -35,9 +35,10 @@ ports that might already be in use.
 | [type-visitor](https://github.com/hershel-theodore-layton/type-visitor)                                                     | 48560       |
 | [html-stream-namespaced](https://github.com/hershel-theodore-layton/html-stream-namespaced)                                 | 48561       |
 | [html-stream-non-namespaced](https://github.com/hershel-theodore-layton/html-stream-non-namespaced)                         | 48562       |
-| reserved                                                                                                                    | 48563       |
-| reserved                                                                                                                    | 48564       |
-| reserved                                                                                                                    | 48565       |
+| [printf-state-machine](https://github.com/hershel-theodore-layton/printf-state-machine)                                     | 48563       |
+| [sql-queryf](https://github.com/hershel-theodore-layton/sql-queryf)                                                         | 48564       |
+| [sql-queryf-codegen](https://github.com/hershel-theodore-layton/sql-queryf-codegen)                                         | 48565       |
+| [post-json-deserialize](https://github.com/hershel-theodore-layton/port-json-deserialize)                                   | 48566       |
 
 [^1]: I already developed in Docker locally, but
       I created the containers on the fly with
