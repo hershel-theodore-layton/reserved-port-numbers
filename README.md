@@ -38,7 +38,7 @@ ports that might already be in use.
 | [printf-state-machine](https://github.com/hershel-theodore-layton/printf-state-machine)                                     | 48563       |
 | [sql-queryf](https://github.com/hershel-theodore-layton/sql-queryf)                                                         | 48564       |
 | [sql-queryf-codegen](https://github.com/hershel-theodore-layton/sql-queryf-codegen)                                         | 48565       |
-| [post-json-deserialize](https://github.com/hershel-theodore-layton/port-json-deserialize)                                   | 48566       |
+| [json-post-deserialize](https://github.com/hershel-theodore-layton/json-post-deserialize)                                   | 48566       |
 
 [^1]: I already developed in Docker locally, but
       I created the containers on the fly with
