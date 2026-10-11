@@ -40,7 +40,6 @@ ports that might already be in use.
 | [sql-queryf-codegen](https://github.com/hershel-theodore-layton/sql-queryf-codegen)                                         | 48565       |
 | [json-post-deserialize](https://github.com/hershel-theodore-layton/json-post-deserialize)                                   | 48566       |
 | [sgml-stream-exam](https://github.com/hershel-theodore-layton/sgml-stream-exam)                                             | 48567       |
-
 | [hack-compiler](https://github.com/hershel-theodore-layton/hack-compiler)                                                 | 48568       |
 
 [^1]: I already developed in Docker locally, but
