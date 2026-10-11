@@ -41,6 +41,7 @@ ports that might already be in use.
 | [json-post-deserialize](https://github.com/hershel-theodore-layton/json-post-deserialize)                                   | 48566       |
 | [sgml-stream-exam](https://github.com/hershel-theodore-layton/sgml-stream-exam)                                             | 48567       |
 | [hack-compiler](https://github.com/hershel-theodore-layton/hack-compiler)                                                 | 48568       |
+| [svg-stream-namespaced](https://github.com/hershel-theodore-layton/svg-stream-namespaced) | 48569 |
 
 [^1]: I already developed in Docker locally, but
       I created the containers on the fly with
